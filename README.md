@@ -14,10 +14,10 @@ O projeto partiu de um portal internacional do setor, onde escolhi um link com m
 Muitas IA's generativas são pagas, e foi um aprendizado também buscar algumas alternativa que permitissem gratuitamente mostrar algum resultado.
 
 ## 🧐 Processo de Criação
-O ChatGPT e o Gemini já geraram conteúdos em português em bom nível (o link original está em inglês). A partir disso foi fazer o caminho natural de executar o vídeo e produzir o e-book.
+O ChatGPT e o Gemini já geraram conteúdos em português em bom nível (o link original está em inglês). A partir disso foi fazer o caminho natural de criar o vídeo e produzir o e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- [ChatGPT](/exemplos/chatgpt.md)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
