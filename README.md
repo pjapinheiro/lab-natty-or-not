@@ -1,7 +1,7 @@
-# IA Generativa aplicada no indústria do petróleo
+# IA Generativa aplicada na indústria do petróleo
 
 ## 📒 Descrição
-Trabalho no ramo do energia (oil and gas) e resolvi fazer o uso da IA Generativa para abordar assuntos específicos do nosso setor.
+Trabalho no ramo de energia (oil and gas) e resolvi fazer o uso da IA Generativa para abordar assuntos específicos do nosso setor.
 O projeto partiu de um portal internacional do setor, onde escolhi um link com material informativo sobre desgaste em um tipo específico de broca utilizada na perfuração de poços de petróleo.
 
 ## 🤖 Tecnologias Utilizadas
@@ -28,8 +28,7 @@ O ChatGPT e o Gemini geraram os conteúdos já em português (o link original es
 - [E-book] (https://my.visme.co/view/76nx8oox-brocas-de-perfuracao#s3)
 - [Vídeo curto] (https://share.neiro.ai/ILwDWYva)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão 
+Muitas IA's com pegadinhas para obrigar a assinatura ou com a gamificação de coins ou coisas parecidas. Aparentemente o mercado está em grande difusão para uma possível consolidação em um segundo momento.
 
 
