@@ -6,7 +6,9 @@ O projeto partiu de um portal internacional do setor, onde escolhi um link com m
 
 ## 🤖 Tecnologias Utilizadas
 - Chat GPT - Criação do script do vídeo para apresentar as informações contidas no link
-- Gemini - Gerar o e-book com informações complentares
+- Gemini - Gerar o e-book com informações complementares
+- Gencraft - Gerar ilustração da capa do E-book
+- Visme - Formatação do E-book
 - Photoroom - Gerar um dos backgrounds do vídeo
 - HourOne - Vídeo informativo mais longo
 - Neiro - Vídeo curto
@@ -22,6 +24,8 @@ O ChatGPT e o Gemini já geraram conteúdos em português em bom nível (o link 
 - [HourOne](/exemplos/HourOne.jpg)
 - [Neiro](/exemplos/Neiro.jpg)
 - [PhotoRoom](/exemplos/PhotoRoom.jpg)
+- [E-book] (https://my.visme.co/view/76nx8oox-brocas-de-perfuracao#s3)
+- [Vídeo curto] (https://share.neiro.ai/ILwDWYva)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
