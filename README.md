@@ -2,7 +2,7 @@
 
 ## 📒 Descrição
 Trabalho no ramo do energia (oil and gas) e resolvi fazer o uso da IA Generativa para abordar assuntos específicos do nosso setor.
-O projeto partiu de um portal informativo sobre o setor, onde foi escolhido um link com material informativo sobre desgaste em um tipo específico de broca utilizada na perfuração de poços de petróleo.
+O projeto partiu de um portal internacional do setor, onde escolhi um link com material informativo sobre desgaste em um tipo específico de broca utilizada na perfuração de poços de petróleo.
 
 ## 🤖 Tecnologias Utilizadas
 - Chat GPT - Criação do script do vídeo para apresentar as informações contidas no link
@@ -14,7 +14,7 @@ O projeto partiu de um portal informativo sobre o setor, onde foi escolhido um l
 Muitas IA's generativas são pagas, e foi um aprendizado também buscar algumas alternativa que permitissem gratuitamente mostrar algum resultado.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O ChatGPT e o Gemini já geraram conteúdos em português em bom nível (o link original está em inglês). A partir disso foi fazer o caminho natural de executar o vídeo e produzir o e-book.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
