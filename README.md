@@ -1,4 +1,4 @@
-# IA Generativa aplicada no insústria do petróleo
+# IA Generativa aplicada no indústria do petróleo
 
 ## 📒 Descrição
 Trabalho no ramo do energia (oil and gas) e resolvi fazer o uso da IA Generativa para abordar assuntos específicos do nosso setor.
@@ -16,7 +16,7 @@ O projeto partiu de um portal internacional do setor, onde escolhi um link com m
 Muitas IA's generativas são pagas, e foi um aprendizado também buscar algumas alternativa que permitissem gratuitamente mostrar algum resultado.
 
 ## 🧐 Processo de Criação
-O ChatGPT e o Gemini já geraram conteúdos em português em bom nível (o link original está em inglês). A partir disso foi fazer o caminho natural de criar o vídeo e produzir o e-book.
+O ChatGPT e o Gemini geraram os conteúdos já em português (o link original está em inglês). A partir disso foi fazer o caminho natural de criar o vídeo e produzir o e-book.
 
 ## 🚀 Resultados
 - [ChatGPT](/exemplos/ChatGPT.jpg)
@@ -24,6 +24,7 @@ O ChatGPT e o Gemini já geraram conteúdos em português em bom nível (o link 
 - [HourOne](/exemplos/HourOne.jpg)
 - [Neiro](/exemplos/Neiro.jpg)
 - [PhotoRoom](/exemplos/PhotoRoom.jpg)
+- [Gencraft](/exemplos/Gencraft.jpg)
 - [E-book] (https://my.visme.co/view/76nx8oox-brocas-de-perfuracao#s3)
 - [Vídeo curto] (https://share.neiro.ai/ILwDWYva)
 
@@ -31,14 +32,4 @@ O ChatGPT e o Gemini já geraram conteúdos em português em bom nível (o link 
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
