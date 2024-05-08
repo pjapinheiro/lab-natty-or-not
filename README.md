@@ -17,7 +17,11 @@ Muitas IA's generativas são pagas, e foi um aprendizado também buscar algumas 
 O ChatGPT e o Gemini já geraram conteúdos em português em bom nível (o link original está em inglês). A partir disso foi fazer o caminho natural de criar o vídeo e produzir o e-book.
 
 ## 🚀 Resultados
-- [ChatGPT](/exemplos/Chat GPT.jpg)
+- [ChatGPT](/exemplos/Chat_GPT.jpg)
+- [Gemini](/exemplos/Gemini.jpg)
+- [HourOne](/exemplos/HourOne.jpg)
+- [Neiro](/exemplos/Neiro.jpg)
+- [PhotoRoom](/exemplos/PhotoRoom.jpg)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
